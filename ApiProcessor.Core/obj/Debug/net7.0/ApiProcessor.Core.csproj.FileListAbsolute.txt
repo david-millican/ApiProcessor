@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\bin\Debug\net7.0\ApiProcessor.Core.deps.json
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\bin\Debug\net7.0\ApiProcessor.Core.dll
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\bin\Debug\net7.0\ApiProcessor.Core.pdb
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ApiProcessor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ApiProcessor.Core.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ApiProcessor.Core.AssemblyInfo.cs
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ApiProcessor.Core.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ApiProcessor.Core.dll
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\refint\ApiProcessor.Core.dll
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ApiProcessor.Core.pdb
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ref\ApiProcessor.Core.dll
+C:\Users\david\source\repos\ApiProcessor\ApiProcessor.Core\obj\Debug\net7.0\ApiProcessor.Core.csproj.AssemblyReference.cache
