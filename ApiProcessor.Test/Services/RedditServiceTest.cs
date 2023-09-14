@@ -12,8 +12,8 @@ namespace ApiProcessor.Test.Services
         public void ServiceReturnsPostsWithMostUpvotes()
         {
             var reddit = new RedditService(_mockLoger.Object);
-
-            reddit.ExecuteAsync().Wait();
+            string[] subs = { "funny" };
+            reddit.ExecuteAsync(subs).Wait();
             var requestedCount = 3;
             var topPosts = reddit.GetTopPosts(requestedCount);
 
@@ -25,8 +25,9 @@ namespace ApiProcessor.Test.Services
         public void ServiceReturnsUsersWithMostPosts()
         {
             var reddit = new RedditService(_mockLoger.Object);
-            
-            reddit.ExecuteAsync().Wait();
+
+            string[] subs = { "funny" };
+            reddit.ExecuteAsync(subs).Wait();
             var requestedCount = 3;
             var topUsers = reddit.GetTopUsers(requestedCount);
 

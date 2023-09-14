@@ -2,5 +2,6 @@
 {
     internal class IPollingService
     {
+        //TODO - define generic interface
     }
 }

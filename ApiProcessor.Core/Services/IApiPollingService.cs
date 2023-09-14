@@ -2,5 +2,6 @@
 {
     internal class IApiPollingService : IPollingService
     {
+        //TODO - define generic interface
     }
 }
